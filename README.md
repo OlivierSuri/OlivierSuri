@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/olivier-moulin-dev/](https://www.linkedin.com/in/olivier-moulin-dev/)
 
-- ⚡ Fun fact **I was a 3D artist, then a graphist** before i decide to become developer.
+- ⚡ Fun fact **I was a 3D artist, then a graphist** before I decide to become developer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
